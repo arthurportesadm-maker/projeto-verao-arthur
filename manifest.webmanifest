@@ -1,0 +1,16 @@
+{
+  "name": "Meu Plano - Dieta e Treino",
+  "short_name": "Meu Plano",
+  "description": "Dieta modular, treino A/B e evolução pessoal em um só lugar.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0b6bcb",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
